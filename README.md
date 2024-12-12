@@ -1,4 +1,5 @@
 
+
 ```
 1. Configuració Inicial: 
 	1. git --versionO
@@ -32,5 +33,19 @@
 	5. Consulta l'historial de commits, fes captura de pantalla: git l
 	(Añadir captura4)
 ```
-	
+---
 
+```
+4. Creació de branques i documentació
+
+	1. Crea una nova branca per a la documentació: git branch 'nombreRama'
+	2. Crea a un fitxeer README.md si es necessari
+		I. Explica a dins el propòsit del projecte: (Des de la branca documentació): 
+		El propòsit del projecte es comprobar que podem implementar tot el treballat
+	        a classe
+	3. Afegeix i fes commit dels canvis de la branca 'documentació'. El missatge 
+	   ha de ser '3- README.md amb documentació inicial.'
+	4. Torna a la branca principal (main) i fes un merge
+```
+	
+---
