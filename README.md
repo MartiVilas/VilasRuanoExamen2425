@@ -49,3 +49,13 @@
 ```
 	
 ---
+
+```
+5. Remot i publicació 
+
+	1. Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser Cognom1Cognom2Examen2425. Fes captura al terminal de com has configurat el repositori remot.
+	2. Puja els canvis al remot desde terminal.Fes captura al terminal.
+	3. Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen:
+	- https://vilas-ruano-examen2425.vercel.app/
+
+```
